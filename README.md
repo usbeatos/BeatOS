@@ -8,7 +8,7 @@
 
 **The open-source framework for autonomous AI music generation, synthesis, and distribution.**
 
-[Discord](https://www.google.com/search?q=https://discord.gg/pulsewave) • [Documentation](https://www.google.com/search?q=https://docs.pulsewave.ai) • [X / Twitter](https://www.google.com/search?q=https://x.com/pulsewaveai)
+[Discord](https://www.google.com/search?q=https://discord.gg/pulsewave) • [Documentation](https://www.google.com/search?q=https://docs.pulsewave.ai) • [X / Twitter](https://x.com/pulsewave_ai)
 
 </div>
 
